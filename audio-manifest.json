@@ -1,0 +1,201 @@
+{
+  "marimba": {
+    "files": [
+      "marimba_rr1.wav",
+      "marimba_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": true
+  },
+  "kalimba": {
+    "files": [
+      "kalimba_rr1.wav",
+      "kalimba_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": true
+  },
+  "pluck": {
+    "files": [
+      "pluck_rr1.wav",
+      "pluck_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": true
+  },
+  "bass": {
+    "files": [
+      "bass_rr1.wav",
+      "bass_rr2.wav"
+    ],
+    "rootMidi": 36,
+    "pitched": true
+  },
+  "cello": {
+    "files": [
+      "cello_rr1.wav",
+      "cello_rr2.wav"
+    ],
+    "rootMidi": 48,
+    "pitched": true
+  },
+  "flute": {
+    "files": [
+      "flute_rr1.wav",
+      "flute_rr2.wav"
+    ],
+    "rootMidi": 72,
+    "pitched": true
+  },
+  "reed": {
+    "files": [
+      "reed_rr1.wav",
+      "reed_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": true
+  },
+  "horn": {
+    "files": [
+      "horn_rr1.wav",
+      "horn_rr2.wav"
+    ],
+    "rootMidi": 55,
+    "pitched": true
+  },
+  "choir": {
+    "files": [
+      "choir_rr1.wav",
+      "choir_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": true
+  },
+  "vocal": {
+    "files": [
+      "vocal_rr1.wav",
+      "vocal_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": true
+  },
+  "glass": {
+    "files": [
+      "glass_rr1.wav",
+      "glass_rr2.wav"
+    ],
+    "rootMidi": 72,
+    "pitched": true
+  },
+  "chime": {
+    "files": [
+      "chime_rr1.wav",
+      "chime_rr2.wav"
+    ],
+    "rootMidi": 72,
+    "pitched": true
+  },
+  "handpan": {
+    "files": [
+      "handpan_rr1.wav",
+      "handpan_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": true
+  },
+  "dulcimer": {
+    "files": [
+      "dulcimer_rr1.wav",
+      "dulcimer_rr2.wav"
+    ],
+    "rootMidi": 64,
+    "pitched": true
+  },
+  "harp": {
+    "files": [
+      "harp_rr1.wav",
+      "harp_rr2.wav"
+    ],
+    "rootMidi": 64,
+    "pitched": true
+  },
+  "pipe": {
+    "files": [
+      "pipe_rr1.wav",
+      "pipe_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": true
+  },
+  "kick": {
+    "files": [
+      "kick_rr1.wav",
+      "kick_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": false
+  },
+  "tom": {
+    "files": [
+      "tom_rr1.wav",
+      "tom_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": false
+  },
+  "handdrum": {
+    "files": [
+      "handdrum_rr1.wav",
+      "handdrum_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": false
+  },
+  "shaker": {
+    "files": [
+      "shaker_rr1.wav",
+      "shaker_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": false
+  },
+  "woodblock": {
+    "files": [
+      "woodblock_rr1.wav",
+      "woodblock_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": false
+  },
+  "cymbal": {
+    "files": [
+      "cymbal_rr1.wav",
+      "cymbal_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": false
+  },
+  "metal": {
+    "files": [
+      "metal_rr1.wav",
+      "metal_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": false
+  },
+  "clap": {
+    "files": [
+      "clap_rr1.wav",
+      "clap_rr2.wav"
+    ],
+    "rootMidi": 60,
+    "pitched": false
+  },
+  "_room": {
+    "files": [
+      "room_ir.wav"
+    ],
+    "pitched": false,
+    "rootMidi": 60
+  }
+}

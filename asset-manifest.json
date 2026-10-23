@@ -1,0 +1,2461 @@
+{
+  "game": "BugSong Islands",
+  "assets": [
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Leafdrum",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m001",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Petalpin",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m002",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Mossbeat",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m003",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Reedhopper",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m004",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Cloverwing",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m005",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Twigchime",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m006",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Nectaroll",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m007",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Sapstring",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m008",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Barkhorn",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m009",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Fernfiddle",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m010",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Hollowoot",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m011",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Sporebell",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m012",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Acornclave",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m013",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Mossmoth",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m014",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Vinevox",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m015",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Timberton",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m016",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Stalacricket",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m017",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Echoid",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m018",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Batbongo",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m019",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Dripclack",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m020",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Oreboomer",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m021",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Cavernote",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m022",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Geodrum",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m023",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Chasmchoir",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m024",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Prismite",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m025",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Facetone",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m026",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Glintbell",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m027",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Shardrum",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m028",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Quartzill",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m029",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Lumenclack",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m030",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Gemora",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m031",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Crystalis",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m032",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Bogbubble",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m033",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Reedcroak",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m034",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Sludgehorn",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m035",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Lilypadle",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m036",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Mosquaver",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m037",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Murkmaraca",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m038",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Fenfiddle",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m039",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Mirehum",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m040",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Peakpipe",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m041",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Talustom",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m042",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Cliffchime",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m043",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Snowhorn",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m044",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Alpbeat",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m045",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Boulderbass",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m046",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Cragcall",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m047",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Summitstring",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m048",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Shelloon",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m049",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Coralbeat",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m050",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Tidepipe",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m051",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-1.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Bubblevox",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m052",
+      "performanceRigFiles": [
+        "rig-core-atlas-1.webp",
+        "rig-head-atlas-1.webp",
+        "rig-leftarm-atlas-1.webp",
+        "rig-rightarm-atlas-1.webp",
+        "rig-leftleg-atlas-1.webp",
+        "rig-rightleg-atlas-1.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Kelpclap",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m053",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Brinebell",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m054",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Reefreed",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m055",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Surfstring",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m056",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Magmatom",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m057",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Cinderclack",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m058",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Emberhorn",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m059",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Ashvox",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m060",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Lavabell",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m061",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Pyropluck",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m062",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Basaltbass",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m063",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Flarefiddle",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m064",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Cloudchoir",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m065",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Zephyrharp",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m066",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Galegong",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m067",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Nimbusnote",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m068",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Kitestring",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m069",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Breezebeat",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m070",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Cirruscall",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m071",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Aerlute",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m072",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Runedrum",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m073",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Relichorn",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m074",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Obeliskore",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m075",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Glyphgong",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m076",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Ruinreed",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m077",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Archivevox",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m078",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Templeton",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m079",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Fossilfiddle",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m080",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Moonmoth",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m081",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Cratercall",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m082",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Silverbell",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m083",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Lunavoice",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m084",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Eclipsechoir",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m085",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Stardrum",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m086",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Tidelight",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m087",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Dreamreed",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m088",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Shadehorn",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m089",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Nocturnote",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m090",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Hollowhum",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m091",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Gloomgong",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m092",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Duskdrum",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m093",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Voidvocal",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m094",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Nightreed",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m095",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Murkstring",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m096",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Polarpipe",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m097",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Glimmerwing",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m098",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Ribbonvox",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m099",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Prismbell",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m100",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Borealbeat",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m101",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Froststring",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m102",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Skyshard",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m103",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "monster-atlas-2.webp",
+      "purpose": "packed monster portrait + articulated performance rig",
+      "monster": "Radiantreed",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "480x480",
+      "transparencyRequired": true,
+      "approved": true,
+      "logicalSpriteId": "m104",
+      "performanceRigFiles": [
+        "rig-core-atlas-2.webp",
+        "rig-head-atlas-2.webp",
+        "rig-leftarm-atlas-2.webp",
+        "rig-rightarm-atlas-2.webp",
+        "rig-leftleg-atlas-2.webp",
+        "rig-rightleg-atlas-2.webp"
+      ]
+    },
+    {
+      "filename": "island-meadow.webp",
+      "purpose": "island background",
+      "island": "Meadow Island",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-forest.webp",
+      "purpose": "island background",
+      "island": "Forest Island",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-cave.webp",
+      "purpose": "island background",
+      "island": "Cave Island",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-crystal.webp",
+      "purpose": "island background",
+      "island": "Crystal Island",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-swamp.webp",
+      "purpose": "island background",
+      "island": "Swamp Island",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-mountain.webp",
+      "purpose": "island background",
+      "island": "Mountain Island",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-coastal.webp",
+      "purpose": "island background",
+      "island": "Coastal Island",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-volcano.webp",
+      "purpose": "island background",
+      "island": "Volcano Island",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-sky.webp",
+      "purpose": "island background",
+      "island": "Sky Island",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-ancient.webp",
+      "purpose": "island background",
+      "island": "Ancient Island",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-luna.webp",
+      "purpose": "island background",
+      "island": "Luna Islet",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-umbra.webp",
+      "purpose": "island background",
+      "island": "Umbra Islet",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "island-aurora.webp",
+      "purpose": "island background",
+      "island": "Aurora Islet",
+      "source": "original generated",
+      "license": "project original",
+      "masterResolution": "1024x640",
+      "transparencyRequired": false,
+      "approved": true
+    },
+    {
+      "filename": "bass_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "bass_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "cello_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "cello_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "chime_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "chime_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "choir_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "choir_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "clap_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "clap_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "cymbal_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "cymbal_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "dulcimer_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "dulcimer_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "flute_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "flute_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "glass_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "glass_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "handdrum_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "handdrum_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "handpan_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "handpan_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "harp_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "harp_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "horn_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "horn_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "kalimba_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "kalimba_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "kick_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "kick_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "marimba_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "marimba_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "metal_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "metal_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "pipe_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "pipe_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "pluck_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "pluck_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "reed_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "reed_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "room_ir.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "shaker_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "shaker_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "tom_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "tom_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "vocal_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "vocal_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "woodblock_rr1.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "woodblock_rr2.wav",
+      "purpose": "audio sample",
+      "source": "original rendered",
+      "license": "project original",
+      "approved": true
+    },
+    {
+      "filename": "app-icon-512.png",
+      "purpose": "app icon",
+      "source": "derived from shipped Leafdrum art",
+      "license": "project original",
+      "approved": true
+    }
+  ]
+}

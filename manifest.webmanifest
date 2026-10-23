@@ -1,0 +1,10 @@
+{
+  "name":"BugSong Islands",
+  "short_name":"BugSong",
+  "description":"An original musical creature collection game with 10 islands, 3 islets, and 104 species.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#081220",
+  "theme_color":"#10213a",
+  "icons":[{"src":"app-icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}

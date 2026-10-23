@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+  <meta name="theme-color" content="#10233a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>BugSong Islands</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="app-icon-512.png">
+  <link rel="apple-touch-icon" href="app-icon-512.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <section id="titleScreen" class="title-screen">
+    <img class="cover-art" src="ui-cover.webp" alt="BugSong Islands world">
+    <div class="title-vignette"></div>
+    <div class="title-card">
+      <div class="title-kicker">ORIGINAL MUSICAL CREATURE GAME</div>
+      <h1>BugSong Islands</h1>
+      <p>Build thirteen living songs across 10 Islands and 3 Islets. Discover 104 performers through feeding, breeding, placement and progression.</p>
+      <button id="startBtn" class="big-play">Enter the Islands</button>
+      <small>Best with sound on · Touch + mouse supported · Progress saves locally</small>
+    </div>
+  </section>
+
+  <div id="gameScreen" class="game-screen hidden">
+    <header class="topbar">
+      <div class="level-cluster"><div class="level-orb"><span id="levelValue">1</span></div><div class="xp-wrap"><strong>BUGSONG</strong><div class="xp-track"><i id="xpFill"></i></div><span id="xpText">0 / 100 XP</span></div></div>
+      <div class="resources">
+        <div class="resource"><i class="coin-icon"></i><b id="coinsValue">0</b></div>
+        <div class="resource"><i class="gem-icon"></i><b id="gemsValue">0</b></div>
+        <div class="resource"><i class="treat-icon"></i><b id="treatsValue">0</b></div>
+      </div>
+      <button class="round-btn" data-panel="settings" aria-label="Settings"><span class="gear-icon"></span></button>
+    </header>
+
+    <main id="stage" class="stage">
+      <div id="stageBg" class="stage-bg"></div>
+      <div class="stage-glow"></div>
+      <div class="island-copy"><span id="islandKind" class="eyebrow"></span><h2 id="islandName"></h2><p id="islandDesc"></p></div>
+      <div class="castle-card"><div class="castle-row"><strong>Castle</strong><span id="castleText"></span></div><div class="bed-track"><i id="castleFill"></i></div><button id="castleBtn"></button></div>
+      <div class="stage-actions"><button id="collectBtn">Collect all</button><button id="moveBtn">Move mode</button><button id="playBtn" class="primary">Play song</button></div>
+      <div id="monsterLayer" class="monster-layer"></div>
+      <div class="foreground-fog"></div>
+    </main>
+
+    <nav class="dock" aria-label="Game menu">
+      <button data-panel="map"><i class="nav-map"></i><span>Map</span></button>
+      <button data-panel="market"><i class="nav-market"></i><span>Market</span></button>
+      <button data-panel="breed"><i class="nav-heart"></i><span>Breed</span></button>
+      <button data-panel="nursery"><i class="nav-egg"></i><span>Nursery</span></button>
+      <button data-panel="collection"><i class="nav-book"></i><span>Collection</span></button>
+    </nav>
+  </div>
+
+  <div id="modalOverlay" class="modal-overlay hidden" role="dialog" aria-modal="true">
+    <section class="modal-panel"><header><h2 id="modalTitle"></h2><button id="closeModal" aria-label="Close">×</button></header><div id="modalBody" class="modal-body"></div></section>
+  </div>
+  <div id="toast" class="toast" role="status"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
